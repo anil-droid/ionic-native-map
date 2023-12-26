@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">maps</string>
+    <string name="title_activity_main">maps</string>
+    <string name="package_name">ionic.maps</string>
+    <string name="custom_url_scheme">ionic.maps</string>
+</resources>
